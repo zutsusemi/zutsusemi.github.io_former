@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Zhixing Zhang （张之行）
 
-You can use the [editor on GitHub](https://github.com/zutsusemi/zutsusemi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How to pronounce my name in ...
+  Mandarin: Chang Chi Hsing
+  Wu Chinese: Zang Zi Ying
 
 ### Markdown
 
